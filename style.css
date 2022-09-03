@@ -1,0 +1,23 @@
+#Header{
+background-color: blueviolet;
+
+}
+
+h1{
+background-color:white;
+width: 80%;
+}
+
+#camara{
+    border: 2px dashed black;
+    width: 300px;
+    height: 300px;
+}
+
+p{
+color: aliceblue;
+}
+
+h4{
+    color: yellow;
+}
